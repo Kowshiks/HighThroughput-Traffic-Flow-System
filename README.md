@@ -2,7 +2,7 @@
 
 ## How to run the program
 
-Just run the file outputModule.py
+Just run the file outputModule.py ->
 python3 outputModule.py
 
 A window should open showing the traffic flow and other relevant details.
