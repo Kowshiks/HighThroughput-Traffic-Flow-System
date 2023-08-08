@@ -11,13 +11,13 @@ For its set for real time where for each second with some random probability the
 
 To Test certain cases you can do the following :
 
-Go to [config.py](http://config.py) and increase the VALIDATION and TIME_SLEEP to view for that much seconds.
+Go to config.py and increase the VALIDATION and TIME_SLEEP to view for that much seconds.
 
 Both values should be same.
 
-You can also play around with the # Traffic Pattern Vehicle Probability field to give different probability for different patterns to validate various cases. This field is also within the [config.py](http://config.py) file.
+You can also play around with the # Traffic Pattern Vehicle Probability field to give different probability for different patterns to validate various cases. This field is also within the config.py file.
 
-You can also change the max and min time limits within the [config.py](http://config.py) to see changes soon for testing purpose.
+You can also change the max and min time limits within the config.py to see changes soon for testing purpose.
 
 
 ## The Assumptions
