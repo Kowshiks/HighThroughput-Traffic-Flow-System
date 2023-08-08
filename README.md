@@ -40,7 +40,7 @@ When the traffic flow is not following the time limits as in when the vehicles a
 
 The min change time of any signal when it turns to green is 8 sec and the maximum would be infinity.
 
-The min active time of any pattern would be 0 sec
+The min active time of any pattern would be 0 sec.
 
 The max active time would be infinity. 
 
@@ -54,7 +54,7 @@ If vehicles are stacking up, the maximum wait time will be the wait time of the 
 
 ## 2) Domain Logic Module
 
-Every sec there will be flow of vehicles into the traffic intersection and the domain logic implemented is time based where the algorithm determine when to change the cycle order depending on the time and flow of vehicles to get the highest throughput.
+Every sec there will be flow of vehicles into the traffic intersection and the domain logic implemented is time based where the algorithm determines when to change the cycle order depending on the time and flow of vehicles to get the highest throughput.
 
 ### When not following the limits:
 
